@@ -1,0 +1,386 @@
+.head{
+    background-color: #292E36;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+.number{
+    color: beige;
+    padding: 10px;
+    margin: 12px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #E1B168;
+    background-color: #292E36;
+    height: 18px;
+}
+.btn{
+    background-color:  #E1B168;
+    width: 120px;
+    height: 50px;
+    border: none;
+}
+
+.cart{
+    padding-right: 1px;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    text-align: center;
+    height: 80px;
+    padding-top: 30px;
+}
+.menu-btn{
+    background-color: #292E36;
+    color: #fff8f5;
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #E1B168;
+    border-bottom: 1px solid #E1B168;
+    font-size: 24px;
+}
+.crt{
+    width: 20px;
+    height: 20px;
+}
+
+.head2{
+    background-color: #292E36;
+}
+
+.navbar{
+    background-color: #292E36;
+    display: flex;
+    justify-content: space-between;
+    border-color: #fff8f5;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    flex-direction: row;
+}
+
+.nav-link{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.nav-link li a{
+    color: #fff8f5;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    justify-content: space-between;
+    justify-items: center;
+}
+.icons{
+    display: flex;
+    padding: 20px;
+    justify-items: center;
+    gap: 20px;
+}
+.starter{
+    padding: 220px;
+
+}
+.cup{
+    position: relative;
+    bottom: -70px;
+    padding: 40px;
+    display: flex;
+    gap: 20px;
+}
+.lemon{
+    width: 35%;
+}
+.background-i{
+    position: relative;
+    left: -300px;
+    transform: scale(0.8); 
+}
+.Photo-8{
+    position: relative;
+    width: 400px;
+    padding: 80px;
+    top: -60px;
+    left: -50px;
+}
+.starter-2{
+    position: relative;
+    width: 70%;
+    padding-right: 135px;
+}
+.straw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.straw-image{
+    padding: 20px;
+}
+.raw{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.pattern{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    margin-bottom: -25px;
+    padding-bottom: -5px;
+}
+.pattern-image{
+    width: 50%;
+}
+.spring{
+    display: flex;
+    align-items: center;
+}
+.spring-image{
+    padding: 20px;
+}
+.spaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.onion{
+    display: flex;
+    align-items: center;
+}
+.onion-image{
+    padding: 20px;
+}
+.onaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.tomato{
+    display: flex;
+    align-items: center;
+}
+.tomato-image{
+    padding: 20px;
+}
+.tomataw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.all{
+    background-color: #fafafa;
+    color: #E1B168;
+    border-style: solid;
+    padding: 10px;
+    margin: 12px;
+    border-width: 2px;
+    border-color: #E1B168;
+    text-align: center;
+}
+
+.grill{
+    display: flex;
+    align-items: center;
+}
+.grill-image{
+    padding: 20px;
+}
+.grillaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.roast{
+    display: flex;
+    align-items: center;
+}
+.roast-image{
+    padding: 20px;
+}
+.roastaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.mark{
+    display: flex;
+    align-items: center;
+}
+.mark-image{
+    padding: 20px;
+}
+.markastaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.spicy{
+    display: flex;
+    align-items: center;
+}
+.spicy-image{
+    padding: 20px;
+}
+.spicaw{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+.photo-21{
+    position: relative;
+    width: 400px;
+    padding: 80px;
+    left: -250px;
+    top: -60px;
+}
+.farm{
+    position: relative;
+    padding-top: 60px;
+}
+.book{
+    position: absolute;
+    text-align: center;
+    background-color: #292E36;
+    height: 200px;
+    width: 500px;
+    padding: 150px;
+    top: 400px;
+    left: 310px;
+}
+.rame{
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+.rame input[type = "text"]{
+    width: 50%;
+    background-color: #292E36;
+    color: #fff8f5;
+    padding: 12px;
+    border: 1px solid #ccc;
+    flex: 1;
+    outline: none;
+    min-width: 250px;
+}
+
+.rame input[type = "email"]{
+    width: 50%;
+    background-color: #292E36;
+    color: #fff8f5;
+    padding: 12px;
+    border: 1px solid #ccc;
+    flex: 1;
+    outline: none;
+    min-width: 250px;
+}
+.your{
+    color: #f0f0f0;
+}
+.form-container{
+    background-color: #292E36;
+}
+.ram{
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+.ram input[type = "text"]{
+    background-color: #292E36;
+    color: #fff8f5;
+    padding: 12px;
+    border: 1px solid #ccc;
+    flex: 1;
+    outline: none;
+    min-width: 155px;
+}
+
+.ram input[type = "datetime"]{
+    background-color: #292E36;
+    color: #fff8f5;
+    padding: 12px;
+    border: 1px solid #ccc;
+    flex: 1;
+    outline: none;
+    min-width: 155px;
+}
+.book-btn{
+    background-color: #f0f0f0;
+    color: #292E36;
+    height: 45px;
+    width: 105px;
+}
+.Insta{
+    color: #f5f9ff;
+    text-decoration: underline;
+}
+.testimonial-btn{
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #d69129;
+    border-bottom: 1px solid #d69129;
+    color: #f0f0f0;
+    background-color: #292E36;
+}
+.foot-2{
+    color: #fffcfb;
+    background-color: #292E36;
+    padding: 20px;
+    display: flex;
+    gap: 200px;
+}
+.contact{
+    text-align: justify;
+}
+.call{
+    color: #E1B168;
+}
+.join{
+    text-align: center;
+    margin-top: -20px;
+}
+.form-wrap{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.form-wrap input[type="Email"]{
+    background-color: #292E36;
+    color: #ccc;
+    padding: 12px;
+    border: 1px solid #ccc;
+    flex: 1;
+    outline: none;
+    min-width: 250px;
+}
+.form-wrap button{
+    padding: 12px 24px;
+    border: none;
+    background-color: #ccc;
+    color: #0a0b0c;
+    cursor: pointer;
+}
+.app{
+    width: 480px;
+}
+.low{
+    width: 480px;
+}
+.copy{
+    text-align: center;
+    color: #ccc;
+    background-color: #292E36;
+    border-top: 1px solid #ccc;
+}

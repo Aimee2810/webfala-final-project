@@ -1,0 +1,237 @@
+.head{
+    background-color: #292E36;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+.number{
+    color: beige;
+    padding: 10px;
+    margin: 12px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #E1B168;
+    background-color: #292E36;
+    height: 18px;
+}
+.btn{
+    background-color:  #E1B168;
+    width: 120px;
+    height: 50px;
+    border: none;
+}
+
+.cart{
+    padding-right: 1px;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    text-align: center;
+    height: 80px;
+    padding-top: 30px;
+}
+.menu-btn{
+    background-color: #292E36;
+    color: #fff8f5;
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #E1B168;
+    border-bottom: 1px solid #E1B168;
+    font-size: 24px;
+}
+.crt{
+    width: 20px;
+    height: 20px;
+}
+
+.head2{
+    background-color: #292E36;
+}
+
+.navbar{
+    background-color: #292E36;
+    display: flex;
+    justify-content: space-between;
+    border-color: #fff8f5;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    flex-direction: row;
+}
+
+.nav-link{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.nav-link li a{
+    color: #fff8f5;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    justify-content: space-between;
+    justify-items: center;
+}
+.icons{
+    display: flex;
+    padding: 20px;
+    justify-items: center;
+    gap: 20px;
+}
+.cda{
+    text-align: center;
+}
+.pas{
+    padding: 120px;
+    text-align: center;
+    margin-right: 650px;
+    transform: scale(0.7);
+}
+.gal-1{
+    display: flex;
+    gap: 10px;
+    margin-top: -60px;
+}
+.gal-2{
+    display: flex;
+    gap: 10px;
+    margin-left: 77px;
+}
+.piz{
+    margin-top: 69px;
+    margin-left: -65px;
+}
+.siv{
+    margin-top: 69px;
+}
+.see-btn{
+    position: relative;
+    top: -250px;
+}
+.see{
+    background: none;
+    border: 1px solid #E1B168;
+    color: #E1B168;
+    padding: 15px;
+}
+.table{
+    background-color: #292E36;
+    color: #fff8f5;
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #E1B168;
+    border-bottom: 1px solid #E1B168;
+    
+}
+.even{
+    color: #fafaf8;
+    padding: 80px;
+    position: absolute;
+    top: 1720px;
+}
+.get{
+    padding: 12px 24px;
+    background: none;
+    border: none;
+    color: #fafafa;
+    cursor: pointer;
+}
+.set{
+    background: none;
+    border: 1px solid #E1B168;
+    color: #E1B168;
+    padding: 15px;
+}
+.fea{
+    padding: 120px;
+    margin-left: 80px;
+}
+.ture{
+    background: none;
+    border-bottom: 1px solid #E1B168;
+    border-top: 1px solid #E1B168;
+    border-left: none;
+    border-right: none;
+}
+.always{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.has img{
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+}
+.Insta{
+    color: #fff8f5;
+    text-decoration: underline;
+}
+.testimonial-btn{
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #d69129;
+    border-bottom: 1px solid #d69129;
+    color: #f0f0f0;
+    background-color: #292E36;
+}
+.foot-2{
+    color: #fffcfb;
+    background-color: #292E36;
+    padding: 20px;
+    display: flex;
+    gap: 200px;
+}
+.contact{
+    text-align: justify;
+}
+.call{
+    color: #E1B168;
+}
+.join{
+    text-align: center;
+    margin-top: -20px;
+}
+.form-wrap{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.form-wrap input[type="Email"]{
+    background-color: #292E36;
+    color: #fafaf8;
+    padding: 12px;
+    border: 1px solid #fafafa;
+    flex: 1;
+    outline: none;
+    min-width: 250px;
+}
+.form-wrap button{
+    padding: 12px 24px;
+    border: none;
+    background-color: #ccc;
+    color: #0a0b0c;
+    cursor: pointer;
+}
+.app{
+    width: 480px;
+}
+.low{
+    width: 480px;
+}
+.copy{
+    text-align: center;
+    color: #ccc;
+    background-color: #292E36;
+    border-top: 1px solid #ccc;
+}
